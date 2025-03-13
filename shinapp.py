@@ -12,7 +12,7 @@ st.set_page_config(page_title='PragyanAI-Text SummarizationApp')
 # Display the logo at the top of the page
 st.image("WhatsApp Image 2025-03-13 at 09.39.06.jpeg")  # Adjust width as needed
 st.divider()  # 👈 Draws a horizontal rule
-st.title('🦜🔗 Text Summarization App')
+st.title('😇👻☠️🤖🔗 Text Summarization App')
 st.divider()  # 👈 Draws a horizontal rule
 # get API Key
 client = Groq(
